@@ -1,0 +1,22 @@
+﻿body {
+}
+.header{
+    height:20px;
+    width:500%;
+    background-color:blueviolet;
+    color:white;
+    align-content:center;
+}
+.sidebar{
+    height:200px;
+    width:300px;
+    border:2px solid blue;
+    text-align:center;
+}
+.footer{
+    margin-top:300px;
+    margin-bottom:0;
+    background-color:black;
+    color:white;
+    width:500%;
+}
